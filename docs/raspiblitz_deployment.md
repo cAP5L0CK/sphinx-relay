@@ -200,7 +200,7 @@ Go to raspiblitz menu, or:
 $ raspiblitz
 ```
 
-Find menu "Services" item and activate Keysend.
+Find menu "Settings" item and activate Keysend.
 
 ### Run
 
